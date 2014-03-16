@@ -21,4 +21,4 @@ How does SpellSearch work?
 <p>Note: Only active spells/abilities in your General and Main Spec tabs will be returned. Future releases will include inactive spells and spells in inactive specs in the search results.</p>
 
 
-<p>For more information, check out my project page for [SpellSearch] (http://marydang.com/projects/spellsearch.html).</p>
+<p>For more information, check out my project page at http://marydang.com/projects/spellsearch.html.</p>
